@@ -8,6 +8,9 @@ function App() {
 
   return (
     <>
+    <div className="min-h-screen flex items-center justify-center bg-gradient-to-r from-sky-500 to-indigo-600">
+      <h1 className="text-5xl font-bold text-white">Tailwind v4 OK 🚀</h1>
+    </div>
       <div>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
